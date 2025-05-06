@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **alecostamontcalm/alecostamontcalm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Olá, eu sou Alexandre Costa
+
+🎓 Desenvolvedor de Aplicações  
+💻 Trabalho com Delphi e APIs Node  
+📚 Atualmente aprendendo Java e Angular
+
+### 🚀 Meus projetos em destaque
+- 🔧 Sistema de controle de materiais
+- 🤖 Reconhecimento Facial com OpenCV
+
+### 📫 Contato
+- Email: alecostabr@gmail.com  
+- LinkedIn: http://linkedin.com/in/alecostabr  
